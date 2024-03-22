@@ -1,0 +1,10 @@
+{
+  "extension_name": {
+    "message": "PiP",
+    "description": "PiP"
+  },
+  "extension_description": {
+    "message": "Allows you to watch videos in Picture-in-Picture mode on Safari, including video players that don't support PiP.",
+    "description": "Allows you to watch videos in Picture-in-Picture mode on Safari, including video players that don't support PiP."
+  }
+}
