@@ -5,7 +5,7 @@
 <h1 align="center">Safari PiP</h1>
 
 <p align="center">
-  Allows you to watch videos in Picture-in-Picture mode on Safari, including video players that don't support PiP.
+  Safari extension that allows you to watch videos in Picture-in-Picture, including video players that don't support PiP.
 </p>
 
 <p align="center">
