@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/juliendargelos/safari-pip/releases/latest/download/Safari PiP.app">
+  <a href="https://github.com/juliendargelos/safari-pip/releases/latest/download/Safari-PiP.app.zip">
     Download latest release
   </a>
 </p>
