@@ -13,3 +13,14 @@
     Download latest release
   </a>
 </p>
+
+<p align="center">
+  <video
+    muted
+    loop
+    autoplay
+    playsinline
+    src="https://github.com/juliendargelos/safari-pip/assets/3743321/e19233b1-0682-49ed-8429-896b956acf66"
+  ></video>
+</p>
+
